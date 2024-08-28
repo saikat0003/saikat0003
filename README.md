@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Molecular Dynamics, Free Energy Calculations, and Enhanced Sampling Techniques**
 
-- 📫 How to reach me **saikat.pal@gmail.com**
+- 📫 How to reach me **saikatpal.compchem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
