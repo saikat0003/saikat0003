@@ -29,6 +29,7 @@
   <a href="https://ambermd.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AMBER-orange?style=for-the-badge&logo=amber" alt="amber" /> </a>
   <a href="https://www.ks.uiuc.edu/Research/namd/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NAMD-blue?style=for-the-badge&logo=namd" alt="namd" /> </a>
   <a href="https://openmm.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenMM-green?style=for-the-badge&logo=openmm" alt="openmm" /> </a>
+  <a href="http://www.gromacs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GROMACS-red?style=for-the-badge&logo=gromacs" alt="gromacs" /> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
