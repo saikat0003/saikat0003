@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Saikat Pal</h1>
 <h3 align="center">A passionate computational chemist and structural biologist</h3>
 
