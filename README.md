@@ -26,9 +26,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://ambermd.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/1635825/132136887-e2c3ea2c-9c87-4f8e-9b6f-7a99c6f301a2.png" alt="amber" width="40" height="40"/> </a>
-  <a href="https://www.ks.uiuc.edu/Research/namd/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/NAMD-logo.png" alt="namd" width="40" height="40"/> </a>
-  <a href="https://openmm.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/openmm/openmm/develop/logo/OpenMM-Icon.svg" alt="openmm" width="40" height="40"/> </a>
+  <a href="https://ambermd.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AMBER-orange?style=for-the-badge&logo=amber" alt="amber" /> </a>
+  <a href="https://www.ks.uiuc.edu/Research/namd/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NAMD-blue?style=for-the-badge&logo=namd" alt="namd" /> </a>
+  <a href="https://openmm.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenMM-green?style=for-the-badge&logo=openmm" alt="openmm" /> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
