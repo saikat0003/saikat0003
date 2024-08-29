@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Pal</h1>
-<h3 align="center">A passionate computational chemist and structural biologist</h3>
+<h3 align="center">A passionate computational chemist and structural biologist</h3>.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat0003&label=Profile%20views&color=0e75b6&style=flat" alt="saikat0003" /> </p>
 
