@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat Pal</h1>
-<h3 align="center">A passionate computational chemist and structural biologist</h3>.
+<h3 align="center">A passionate computational chemist and structural biologist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat0003&label=Profile%20views&color=0e75b6&style=flat" alt="saikat0003" /> </p>
 
@@ -41,7 +41,5 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikat0003&show_icons=true&locale=en&layout=compact" alt="saikat0003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat0003&show_icons=true&locale=en" alt="saikat0003" /></p>
