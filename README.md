@@ -11,9 +11,7 @@
 
 - 🤝 I’m looking for help with **machine learning applications in structural biology**
 
-- 👨‍💻 All of my projects are available at [https://scholar.google.co.in/citations?user=l720qe0AAAAJ&hl=en](https://scholar.google.co.in/citations?user=l720qe0AAAAJ&hl=en)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/saikat-pal-590444202/](https://www.linkedin.com/in/saikat-pal-590444202/)
+- 👨‍💻 All of my published works are available at [google scholar](https://scholar.google.co.in/citations?user=l720qe0AAAAJ&hl=en) 
 
 - 💬 Ask me about **Molecular Dynamics, Free Energy Calculations, and Enhanced Sampling Techniques**
 
