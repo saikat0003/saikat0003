@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/saikat pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikat pal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://ambermd.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AMBER-orange?style=for-the-badge&logo=amber" alt="amber" /> </a>
   <a href="http://www.gromacs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GROMACS-red?style=for-the-badge&logo=gromacs" alt="gromacs" /> </a>
