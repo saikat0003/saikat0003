@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat0003&label=Profile%20views&color=0e75b6&style=flat" alt="saikat0003" /> </p>
 
-- 🔭 I’m currently working on [Free energy perturbation (FEP)/Thermodynamic Integration (TI) techniques](https://github.com/NgFEP) 
+- 🔭 I’m currently working on [Free energy perturbation (FEP)/Thermodynamic Integration (TI) techniques](https://github.com/NgFEP)
 
 - 🌱 I’m currently learning **Autoencoder**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **machine learning applications in structural biology**
 
-- 👨‍💻 All of my published works are available at [google scholar](https://scholar.google.co.in/citations?user=l720qe0AAAAJ&hl=en) 
+- 👨‍💻 All of my published works are available at [google scholar](https://scholar.google.co.in/citations?user=l720qe0AAAAJ&hl=en)
 
 - 💬 Ask me about **Molecular Dynamics, Free Energy Calculations, and Enhanced Sampling Techniques**
 
@@ -41,5 +41,3 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat0003&show_icons=true&locale=en" alt="saikat0003" /></p>
