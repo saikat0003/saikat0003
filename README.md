@@ -42,4 +42,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat0003&show_icons=true&locale=en" alt="saikat0003" /></p>
+#<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikat0003&show_icons=true&locale=en" alt="saikat0003" /></p>
