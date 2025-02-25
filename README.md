@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **molecular dynamics of biomacromolecules**
 
-- 🤝 I’m looking for help with **machine learning applications in structural biology**
-
 - 👨‍💻 All of my published works are available at [google scholar](https://scholar.google.co.in/citations?user=l720qe0AAAAJ&hl=en)
 
 - 💬 Ask me about **Molecular Dynamics, Free Energy Calculations, and Enhanced Sampling Techniques**
